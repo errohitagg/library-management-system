@@ -1,0 +1,6 @@
+Microsoft SQL Server
+Type 4
+com.microsoft.sqlserver.jdbc.SQLServerDriver
+jdbc:sqlserver://localhost:1433;databaseName=Library
+true
+

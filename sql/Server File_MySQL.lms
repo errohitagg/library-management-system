@@ -1,0 +1,7 @@
+MySQL
+Type 4
+com.mysql.jdbc.Driver
+jdbc:mysql://localhost/Library
+true
+root
+rohit

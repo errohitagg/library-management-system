@@ -1,0 +1,7 @@
+PostgreSQL
+Type 4
+org.postgresql.Driver
+jdbc:postgresql://localhost/Library
+false
+postgres
+rohit
